@@ -56,7 +56,7 @@ object DecoratorExample extends App {
     dc play cd1
     +dc operation x
 
-    println("")
+    println("------------------------------------------")
     println("Implement Decorator for text colour change: ")
     dc play cd2
     +dc operation x
