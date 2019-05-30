@@ -1,8 +1,8 @@
-Adapter 
-Bridge
-Composite
-Decorator
-Iterator
-Mediator
-Property
-State
+- Adapter 
+- Bridge
+- Composite
+- Decorator
+- Iterator
+- Mediator
+- Property
+- State
