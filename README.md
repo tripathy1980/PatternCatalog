@@ -1,7 +1,4 @@
-# PatternCatalog
-
-
-Adapter
+Adapter 
 Bridge
 Composite
 Decorator
